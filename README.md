@@ -1,1 +1,3 @@
-# Caesar Cipher done in python
+# Caesar's Cipher
+
+## also known as Caesar shifter, has been coded in python.
